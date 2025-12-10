@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.freepik.com/free-photo/abstract-background-with-low-poly-design_2795509.htm#fromView=search&page=1&position=4&uuid=d932bf70-d172-4c2d-9081-de89b64ac070&query=technology" width="100%" height="500px" />
+  <img src="https://raw.githubusercontent.com/Jabulani769/Jabulani769/main/new-banner.jpg" width="100%" height="500px" />
 </p>
 
 ## Intro About Me
